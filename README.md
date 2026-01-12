@@ -26,4 +26,4 @@ It was analyzed and cleaned using Excel.
 
 ## Visuals
 (screenshot of Excel charts and dashboard)
-![Dashboard](Screenshot(62).png)
+![Dashboard](invest.png) 
