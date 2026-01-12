@@ -24,6 +24,5 @@ It was analyzed and cleaned using Excel.
 - Target low risk products to conservative investors
 - Design age specific investment plans
 
-## Visuals
-(screenshot of Excel charts and dashboard)
+## Visual
 ![Dashboard](invest.png) 
